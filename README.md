@@ -5,10 +5,10 @@
 # Hello! Welcome to my Github profile.
 ## My name is Eudes.
 
-- 👀 I’m interested in Console, Web and Game Development
+<!--- - 👀 I’m interested in Console, Web and Game Development
 - 🌱 I’m currently learning DevOps, Web and Game Development. The art is never fully learned.
 - 😄 Pronouns: He
-- ⚡ Fun fact: I like to draw and paint
+- ⚡ Fun fact: I like to draw and paint  --->
   
 ## DevOps Tools and Technologies / Ferramentas e Tecnologias DevOps
 
