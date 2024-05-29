@@ -11,14 +11,19 @@
 - ⚡ Fun fact: I like to draw and paint  --->
   
 ## DevOps Tools and Technologies / Ferramentas e Tecnologias DevOps
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"> &nbsp;&nbsp;&nbsp; <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp; <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp; <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp; <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp; <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> &nbsp;&nbsp;&nbsp; <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,dotnet,docker,kubernetes,nginx,linux,vscode,mongodb,postgres" />
+</a>
+  
 ## Game Development and Graphics / Desenvolvimento de jogos e design
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=unity,godot,photoshop,blender" />
+</a>
 
 ## Languages / Linguagens
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40"/> 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,python,go,bash" />
+</a>
 
 ## Contact / Contatos:
 
