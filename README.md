@@ -22,7 +22,7 @@
 
 ## Languages / Linguagens
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,python,go,bash" />
+  <img src="https://skillicons.dev/icons?i=cs,go,python,bash" />
 </a>
 
 ## Contact / Contatos:
