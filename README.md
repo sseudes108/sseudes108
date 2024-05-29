@@ -23,10 +23,10 @@
 ## Contact / Contatos:
 
 <div>
-<a href = "mailto:eudes.jss92@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eudes-souza-528464293/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://sseudes.itch.io/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/itch.io-%23fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
-<a href="https://www.youtube.com/@sseudes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:eudes.jss92@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/eudes-souza-528464293/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://sseudes.itch.io/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/itch.io-%23fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white"></a>
+<a href="https://www.youtube.com/@sseudes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 
 ## GitHub Stats / Estatísticas GitHub
