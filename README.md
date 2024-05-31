@@ -9,12 +9,12 @@
   <img src="https://skillicons.dev/icons?i=git,dotnet,docker,kubernetes,nginx,linux,vscode,mongodb,postgres" alt="DevOps Tools and Technologies"/>
 </a>
 
-## Game Development and Graphics / Desenvolvimento de jogos e design
+## Game Development and Graphics / Desenvolvimento de Jogos e Design
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=unity,godot,photoshop,blender" alt="Game Development and Graphics"/>
 </a>
 
-## Languages / Linguagens
+## Programing Languages / Linguagens de Programação
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cs,go,python,bash" alt="Programing Languages"/>
 </a>
