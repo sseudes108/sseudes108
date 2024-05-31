@@ -1,12 +1,12 @@
-<h1>Hello, and welcome. My name is <i>Eudes</i>.</h1>
+<h1 align="center">Hello, and welcome. My name is <i>Eudes</i>.</h1>
 
 <blockquote style="font-style: italic; color: gray;">
-    "I'm still learning. Michelangelo"
+    <p align="center"> "I'm still learning. Michelangelo"</p>
 </blockquote>
 
 ## DevOps Tools and Technologies / Ferramentas e Tecnologias DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,dotnet,docker,kubernetes,nginx,linux,bash,vscode,mongodb,postgres" alt="DevOps Tools and Technologies"/>
+  <img src="https://skillicons.dev/icons?i=git,dotnet,docker,kubernetes,nginx,linux,vscode,mongodb,postgres" alt="DevOps Tools and Technologies"/>
 </a>
 
 ## Game Development and Graphics / Desenvolvimento de Jogos e Design
@@ -16,7 +16,7 @@
 
 ## Programing Languages / Linguagens de Programação
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,go,python" alt="Programing Languages"/>
+  <img src="https://skillicons.dev/icons?i=cs,go,python,bash" alt="Programing Languages"/>
 </a>
 
 ## Contact / Contatos:
