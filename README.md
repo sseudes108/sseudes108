@@ -1,7 +1,7 @@
-<h1 align="center">Hello, and welcome. My name is <i>Eudes</i>.</h1>
+<h1>Hello, and welcome. My name is <i>Eudes</i>.</h1>
 
 <blockquote style="font-style: italic; color: gray;">
-    <p align="center"> "I'm still learning. Michelangelo"</p>
+    "I'm still learning. Michelangelo"
 </blockquote>
 
 ## DevOps Tools and Technologies / Ferramentas e Tecnologias DevOps
