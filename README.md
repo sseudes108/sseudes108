@@ -11,12 +11,12 @@
 
 ## Game Development and Graphics / Desenvolvimento de Jogos e Design
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,godot,photoshop,blender" alt="Game Development and Graphics"/>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,photoshop,blender" alt="Game Development and Graphics"/>
 </a>
 
 ## Programing Languages / Linguagens de Programação
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,go,python" alt="Programing Languages"/>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,go,python" alt="Programing Languages"/>
 </a>
 
 ## Contact / Contatos:
