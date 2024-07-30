@@ -6,7 +6,7 @@
 
 ## DevOps Tools and Technologies / Ferramentas e Tecnologias DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,dotnet,docker,kubernetes,nginx,linux,bash,vscode,mongodb,postgres" alt="DevOps Tools and Technologies"/>
+  <img src="https://skillicons.dev/icons?i=git,dotnet,docker,kubernetes,nginx,linux,bash,powershell,vscode,mongodb,postgres" alt="DevOps Tools and Technologies"/>
 </a>
 
 ## Game Development and Graphics / Desenvolvimento de Jogos e Design
